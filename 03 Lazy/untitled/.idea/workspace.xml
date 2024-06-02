@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7db134f3-0a9c-4fda-8d5d-b73b9c2163f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02-qualifiers/src/main/java/com/example/first/qualifiers/coach/common/BadmintonCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../02-qualifiers/src/main/java/com/example/first/qualifiers/coach/common/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/src/main/java/com/example/first/Interface/coach/rest/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-interface/src/main/java/com/example/first/Interface/coach/rest/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/target/classes/com/example/first/Interface/coach/CoachApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/target/classes/com/example/first/Interface/coach/common/Coach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/target/classes/com/example/first/Interface/coach/common/CricketCoach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/target/classes/com/example/first/Interface/coach/rest/DemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-interface/target/test-classes/com/example/first/Interface/coach/CoachApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/example/first/Interface/coach/CoachApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/example/first/Interface/coach/common/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/example/first/Interface/coach/common/CricketCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/com/example/first/Interface/coach/rest/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/com/example/first/Interface/coach/CoachApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hGVa71jYsuyOd8isUp9luwcBwJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/antrikshprasad/Documents/SpringBoot/03 Lazy/untitled/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7db134f3-0a9c-4fda-8d5d-b73b9c2163f7" name="Changes" comment="" />
+      <created>1717220463246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717220463246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
