@@ -1,10 +1,11 @@
 package com.example.first.qualifiers.coach.common;
+
 import org.springframework.stereotype.Component;
 
 @Component
-public class BadmintonCoach implements Coach {
+public class CricketCoach implements Coach {
     @Override
     public String getDailyWorkout() {
-        return "Practice badminton daily for 30mins";
+        return "Practice fast balling daily for 15min !!";
     }
 }
